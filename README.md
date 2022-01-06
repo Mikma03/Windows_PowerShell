@@ -16,6 +16,47 @@ As a scripting language, PowerShell is commonly used for automating the manageme
 
 [Link to instalation overview](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.2)
 
-# Basic knowladge
+# Get and set execution policy
+
+## Gets the execution policies
 
 > ```Get-ExecutionPolicy```
+
+
+To display the execution policies for each scope in the order of precedence, use Get-ExecutionPolicy -List. To see the effective execution policy for your PowerShell session use Get-ExecutionPolicy with no parameters.
+
+> ```Get-ExecutionPolicy -List```
+
+[Link to Microsoft docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/get-executionpolicy?view=powershell-7.2)
+
+
+## Set an execution policy
+
+This example shows how to set an execution policy for the local computer.
+
+> ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine Get-ExecutionPolicy -List```
+
+The ```Set-ExecutionPolicy``` cmdlet uses the ExecutionPolicy parameter to specify the RemoteSigned policy. The Scope parameter specifies the default scope value, LocalMachine. To view the execution policy settings, use the ```Get-ExecutionPolicy``` cmdlet with the List parameter.
+
+> ```Set-ExecutionPolicy Bypass```
+
+# Useful command
+
+
+Version check
+
+> ```$PSVersionTable```
+
+
+Clear Power Shell console
+
+> ```cls```
+
+List of avaliable folders in current location
+
+> ```ls```
+
+Lits od aliases
+
+> ```Get-Alias```
+
