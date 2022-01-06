@@ -1,0 +1,2 @@
+# Windows_PowerShell
+System administrators to an advanced level and more efficient work. Automate your daily work using the advantages of Windows PowerShell scripting.   Topics: why automation; how to launch Windows PowerShell as admin and non-admin; what is the execution policy; PowerShell help; PowerShell file read operations; PowerShell, Windows PowerShell, Microsoft scripting language; and PowerShell modules.
