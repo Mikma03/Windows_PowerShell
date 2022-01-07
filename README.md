@@ -43,20 +43,30 @@ The ```Set-ExecutionPolicy``` cmdlet uses the ExecutionPolicy parameter to speci
 # Useful command
 
 
-Version check
+### Version check
 
 > ```$PSVersionTable```
 
 
-Clear Power Shell console
+### Clear Power Shell console
 
 > ```cls```
 
-List of avaliable folders in current location
+### List of avaliable folders in current location
 
 > ```ls```
 
-Lits od aliases
+### Lits od aliases
 
 > ```Get-Alias```
+
+### Information about host
+
+> ```Get-Host```
+
+### PowerShell ISE
+
+To get PowerShell ISE press Windows key + R and type PowerShell ISE
+
+Tutorial how to run PowerShell 7 in Powershell ISE [Link](https://www.youtube.com/watch?v=Gqzf7mUloaE&ab_channel=AdamDriscoll)
 
