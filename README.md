@@ -90,6 +90,12 @@ Tutorial how to run PowerShell 7 in Powershell ISE [Link](https://www.youtube.co
 
 > ```Get-History```
 
+### Get help
+
+Example for get help command
+
+> ```Get-Help Start-Process -Online```
+
 # Variables
 
 $VARIABLE_NAME = expresion in PowerShell
@@ -97,6 +103,27 @@ $VARIABLE_NAME = expresion in PowerShell
 For example:
 
 > ```$example = Get-Content -Path .\FILE_NAME\ -SELECTED_ARGUMENT```
+
+
+# Instalation
+
+Instalation on new module
+
+> ```Install-Module -Name PACKAGE_NAME```
+
+The most popular packages can be found there [Link](https://www.powershellgallery.com/packages/SqlServer/21.1.18256)
+
+
+# New process
+
+Starting new proces for PowerShell terminal
+
+>```Start-Process calc -PassThru```
+
+Above process start calculator and show some details
+
+
+>```Start-Process -FilePath "PATH_TO_FILE"```
 
 
 
