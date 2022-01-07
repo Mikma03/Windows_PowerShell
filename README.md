@@ -70,3 +70,17 @@ To get PowerShell ISE press Windows key + R and type PowerShell ISE
 
 Tutorial how to run PowerShell 7 in Powershell ISE [Link](https://www.youtube.com/watch?v=Gqzf7mUloaE&ab_channel=AdamDriscoll)
 
+### Creatinh new folder
+
+> ```New-Item -Path FILE_NEM -ItemType Directory```
+
+### Delete folder
+
+> ```Remove-Item .\FILE_NAME\```
+
+### Write something in selected file
+
+> ```"tekst that you want to add into file" | Out-File FILE_NAME -Append```
+
+
+
