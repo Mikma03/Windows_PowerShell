@@ -82,5 +82,25 @@ Tutorial how to run PowerShell 7 in Powershell ISE [Link](https://www.youtube.co
 
 > ```"tekst that you want to add into file" | Out-File FILE_NAME -Append```
 
+### Opne file into terminal
+
+> ```Get-Content -Path .\FILE_NAME\ -SELECTED_ARGUMENT
+
+### History
+
+> ```Get-History```
+
+# Variables
+
+$VARIABLE_NAME = expresion in PowerShell
+
+For example:
+
+> ```$example = Get-Content -Path .\FILE_NAME\ -SELECTED_ARGUMENT```
+
+
+
+
+
 
 

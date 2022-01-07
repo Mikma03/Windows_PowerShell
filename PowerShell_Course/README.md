@@ -11,3 +11,6 @@ The course is intended to make people think in terms of automating small daily t
 
 
 
+
+Another great short introduction to PowerShell 7 can be fin here [Link](https://www.youtube.com/watch?v=K9EUntTP7jM&ab_channel=JohnSavill%27sTechnicalTraining)
+
