@@ -1,9 +1,14 @@
-G# Table of contents
+# Table of contents
 
-1. [Instalation and introduction](#Instalation-and-introduction)
+- [Instalation and introduction](#Instalation-and-introduction)
 
 
+# Introduction
 
+# Courses
+
+- PowerShell Master Class
+    - https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8
 
 
 # Instalation and introduction
@@ -14,7 +19,8 @@ PowerShell is a modern command shell that includes the best features of other po
 
 As a scripting language, PowerShell is commonly used for automating the management of systems. It is also used to build, test, and deploy solutions, often in CI/CD environments. PowerShell is built on the .NET Common Language Runtime (CLR). All inputs and outputs are .NET objects. No need to parse text output to extract information from output.
 
-[Link to instalation overview](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.2)
+- Link to instalation overview
+    - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.2)
 
 # Get and set execution policy
 
