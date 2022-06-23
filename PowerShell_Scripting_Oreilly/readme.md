@@ -8,8 +8,7 @@
 - [About the Instructor](#about-the-instructor)
 - [Overview](#overview)
 - [Lesson Descriptions](#lesson-descriptions)
-- [Lesson 1](#lesson-1)
-  - [Commands](#commands)
+- [Lesson 2](#lesson-2)
 
 <!-- /TOC -->
 
@@ -60,18 +59,8 @@ This fully updated edition of the bestselling Practical Windows PowerShell Scrip
 - Lesson 11 concludes the video course by presenting advanced features of PowerShell, including ternary operators, pipeline chain operators, null condition operators, and pipeline parallelization.
 
 
-# Lesson 1
-
-## Commands
-
-Get-Service
-
-Get-Command Get-*
-
-Get-Command *-Get
-
-Get-Help Get-Service
+# Lesson 2
 
 
-Start: 1.5 Predicting a Command's Behavior
-- https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_01_05/
+2.1 Commonly Used Cmdlets
+- https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_02_01/
