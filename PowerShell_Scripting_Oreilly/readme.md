@@ -62,6 +62,6 @@ This fully updated edition of the bestselling Practical Windows PowerShell Scrip
 # Lesson 2
 
 
-2.3 Working with Variables, Arrays, and Hash Tables
+2.3 2.5 Making Sense of Error Messages
 
-https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_02_03/
+https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_02_06/
