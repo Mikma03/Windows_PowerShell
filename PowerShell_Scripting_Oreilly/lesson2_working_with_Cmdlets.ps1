@@ -166,3 +166,9 @@ Get-ChildItem C:\Users\mikol\Desktop\Folders\Windows_PowerShell\README.md
 # show info about lat error message
 Get-Error
 
+# custom error message
+# docs: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_try_catch_finally?view=powershell-7.2
+
+Try{'Message'}
+
+Catch{'Message'}

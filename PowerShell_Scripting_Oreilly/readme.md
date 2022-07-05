@@ -62,6 +62,6 @@ This fully updated edition of the bestselling Practical Windows PowerShell Scrip
 # Lesson 2
 
 
-2.3 2.5 Making Sense of Error Messages
+3.2 Configuring the Script Execution Policy
 
-https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_02_06/
+https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_03_02/
