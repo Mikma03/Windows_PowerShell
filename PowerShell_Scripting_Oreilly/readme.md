@@ -8,7 +8,7 @@
 - [About the Instructor](#about-the-instructor)
 - [Overview](#overview)
 - [Lesson Descriptions](#lesson-descriptions)
-- [Lesson 2](#lesson-2)
+- [Lesson 3](#lesson-3)
 
 <!-- /TOC -->
 
@@ -59,9 +59,9 @@ This fully updated edition of the bestselling Practical Windows PowerShell Scrip
 - Lesson 11 concludes the video course by presenting advanced features of PowerShell, including ternary operators, pipeline chain operators, null condition operators, and pipeline parallelization.
 
 
-# Lesson 2
+# Lesson 3
 
 
-3.2 Configuring the Script Execution Policy
+3.4 Silencing Errors
 
-https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_03_02/
+https://learning.oreilly.com/videos/practical-windows-powershell/9780137905256/9780137905256-PWP2_01_03_04/
